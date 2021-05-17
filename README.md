@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dairo Michael Bidemi -> @Michael-py
-- 👀 I’m interested in Python, Django, React.js, 
+- 👀 I’m interested in Python, Django, Javascript, React.js 
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me
   - via [Twitter: @HarryBidemi](twitter.com/HarryBidemi)
