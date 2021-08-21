@@ -1,7 +1,6 @@
 # About Me
-- 👋 Hi, I’m Dairo Michael Bidemi -> @Michael-py
+- 👋 Hi, I’m Dairo Michael Bidemi -> @Michael-py, a fullstack Web developer
 - 👀 I’m interested in Python, Django, Javascript, React.js, Data Science
-- 🌱 I’m currently learning React.js
 - 📫 How to reach me
   - via [Twitter: @HarryBidemi](twitter.com/HarryBidemi)
   - via Whatsapp: +234(0)7052277204
