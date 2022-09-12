@@ -14,9 +14,9 @@
 - SQL (MySQL & PostgreSQL)
 - Machine Learning
 - Data Analytics
-- Data Mining
-- Web Scraping
-- Regression Analysis
-- Clustering 
-- Classification
+- Data Mining, Web Scraping
+- Regression Analysis, Clustering, Classification
 - Data Visualization
+- Django web framework
+- ReactJs
+- Javascript
