@@ -6,7 +6,7 @@
   - via Whatsapp: +234(0)7045865370
 ---
 ## Projects
-- Checkout my **[PORTFOLIO](https://michael-py.github.io/)**
+- Checkout my **[PORTFOLIO](https://github.com/Michael-py/portfolio)**
 
 ## Tech Skills
 
